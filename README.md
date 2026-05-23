@@ -32,7 +32,7 @@ ollama --version
 ## 2) Clone The Repository
 
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/AI-Trip-Planner.git
+git clone https://github.com/gauriwanare/AI-Trip-Planner.git
 cd AI-Trip-Planner
 ```
 
