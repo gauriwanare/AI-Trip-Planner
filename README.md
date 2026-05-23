@@ -9,6 +9,26 @@ This project has 3 parts:
 
 You must run all 3 for the app to work.
 
+## Product Screenshots
+
+### 1) Budget breakup and itinerary cards
+![Budget breakup and itinerary cards](docs/screenshots/01-budget-and-chat.png)
+
+### 2) Multi-day itinerary with edit/delete controls
+![Multi-day itinerary with edit/delete controls](docs/screenshots/02-day2-day3.png)
+
+### 3) Day 4 and Day 5 planning view
+![Day 4 and Day 5 planning view](docs/screenshots/03-day4-day5.png)
+
+### 4) Agent chat request while itinerary is being generated
+![Agent chat request while itinerary is being generated](docs/screenshots/04-chat-streaming-status.png)
+
+### 5) Agent chat confirmation messages
+![Agent chat confirmation messages](docs/screenshots/05-chat-completion.png)
+
+### 6) Itinerary with visual cards and AI chat suggestions
+![Itinerary with visual cards and AI chat suggestions](docs/screenshots/06-itinerary-and-chat.png)
+
 ## 1) Prerequisites
 
 Install these first:
